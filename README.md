@@ -11,4 +11,5 @@ This is a practice project for learning Git and GitHub.
 Open this folder in Visual Studio Code.
 
 ## Contributors
--NIDHI
+- Nidhi
+
