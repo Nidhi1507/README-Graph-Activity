@@ -12,4 +12,6 @@ Open this folder in Visual Studio Code.
 
 ## Contributors
 - Nidhi
+## Future Improvement
+Add screenshots and installation instructions in a future update
 
